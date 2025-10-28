@@ -59,8 +59,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=HARISH112006&icon=0&color=0" alt="Profile Views" />
-</p>
 
 <!-- Created by Harish with ❤️ and curiosity -->
