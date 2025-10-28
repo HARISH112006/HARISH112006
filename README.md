@@ -1,13 +1,13 @@
 <h1 align="center">✨ Harish ✨</h1>
-<h3 align="center">3rd Year CSBS Student | Frontend Developer | React Learner</h3>
+<h3 align="center">Frontend Developer | React Learner | Web Enthusiast</h3>
 
 ---
 
 # 💫 About Me:
-1️⃣ I’m **Harish**, a 3rd-year **CSBS student** at *Kalaignar Karunanidhi Institute of Technology*.  
-2️⃣ Passionate about **Frontend Development** and **Creative Web Design**.  
-3️⃣ Currently learning **React.js** to build smart, dynamic UIs.  
-4️⃣ I love creating **clean, responsive, and user-focused** websites.  
+1️⃣ I’m **Harish**, passionate about **Frontend Development** and **Creative Web Design**.  
+2️⃣ I enjoy crafting **clean, responsive, and user-focused** websites.  
+3️⃣ Currently exploring **React.js** to build smart, dynamic UIs.  
+4️⃣ Always curious to learn new tech and improve my skills.  
 5️⃣ My motto — *Code smart, build better, and grow every day!* 🚀  
 
 ---
@@ -33,6 +33,14 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+---
+
+## 🧰 Tools I Use:
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
