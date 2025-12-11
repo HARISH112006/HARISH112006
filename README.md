@@ -58,7 +58,6 @@ Hi there! I’m **Harish** 👋, a passionate Full Stack Developer under the **A
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -73,7 +72,7 @@ Hi there! I’m **Harish** 👋, a passionate Full Stack Developer under the **A
 ---
 
 ## 🧠 Currently Exploring:
-React.js | Modern Web UI | Cloud Basics (AWS, VPC)
+React.js | Express.js | Cloud Basics (AWS, VPC)
 
 ---
 
