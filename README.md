@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=500&color=1E90FF&width=400&lines=I'm+Harish" alt="I am Harish" />
 </p>
@@ -20,7 +19,6 @@ Hi there! I’m **Harish** 👋, a passionate Full Stack Developer under the **A
 ## 📄 Resume Highlights:
 - **Education:** Bachelor’s in Computer Science (or your degree)  
 - **Projects:** E-School Platform, React Dynamic Interfaces, DSA Practice Scripts  
-- **Skills:** Python, Java, JavaScript, React.js, HTML5, CSS3, C, SQL  
 - **Tools:** VS Code, Git, GitHub, Postman  
 - **Achievements:** Contributed to multiple personal & academic projects emphasizing **clean architecture** and **user-focused design**  
 
@@ -54,10 +52,30 @@ Hi there! I’m **Harish** 👋, a passionate Full Stack Developer under the **A
 
 ---
 
+## 🛠 Technical Skills:
+- **Frontend Development:** HTML5, CSS3, JavaScript (ES6+), React.js  
+- **Backend Development:** Python, Java, REST API  
+- **Database Management:** MySQL   
+- **Programming Concepts:** OOP, Clean Code, Debugging  
+
+---
+
+## 💼 Professional Skills:
+- Problem Solving  
+- Team Collaboration  
+- Communication Skills  
+- Time Management   
+- Analytical & Logical Thinking  
+- Adaptability & Quick Learning  
+- Critical Thinking  
+
+---
+
 ## 🧰 Tools & Platforms:
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
