@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">✨ Harish ✨</h1>
 <h3 align="center">Full Stack Developer | React Enthusiast | Web & Software Developer</h3>
 
@@ -74,6 +73,3 @@ I’m **Harish**, a passionate Full Stack Developer under the **AACC 2027 Progra
 React.js | Modern Web UI | Cloud Basics (AWS, VPC)
 
 ---
-
-<!-- Created by Harish with ❤️ and curiosity -->
-```
