@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=120&duration=4000&pause=1000&color=1E90FF&width=800&lines=Harish" alt="Harish" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=120&duration=4000&pause=1000&color=1E90FF&width=200&lines=Harish" alt="Harish" />
 </p>
 
 <h3 align="center">Full Stack Developer | React Enthusiast | Web & Software Developer</h3>
