@@ -70,6 +70,21 @@ Hi there! I’m **Harish** 👋, a passionate Full Stack Developer under the **A
 - Critical Thinking  
 
 ---
+## 🏗️ Projects
+
+### **1. To-Do List Website**  
+**Technologies:** HTML, CSS, JavaScript  
+**Description:** A simple and interactive To-Do List web app where users can add, view, and remove tasks with titles, descriptions, due dates, and priority levels. Tasks are saved in local storage.  
+
+### **2. Portfolio**  
+**Technologies:** HTML, CSS, JavaScript  
+**Description:** A responsive personal portfolio to showcase projects, skills, and achievements.  
+
+### **3. Weather Deduction App**  
+**Technologies:** HTML, CSS, JavaScript  
+**Description:** A responsive weather deduction web app that allows users to get weather information and predictions based on city or location.  
+
+---
 
 ## 🧰 Tools & Platforms:
 <p align="center">
