@@ -1,14 +1,26 @@
+```markdown
 <h1 align="center">✨ Harish ✨</h1>
-<h3 align="center">Frontend Developer | React Learner | Web Enthusiast</h3>
+<h3 align="center">Full Stack Developer | React Enthusiast | Web & Software Developer</h3>
 
 ---
 
 # 💫 About Me:
-1️⃣ I’m **Harish**, passionate about **Frontend Development** and **Creative Web Design**.  
-2️⃣ I enjoy crafting **clean, responsive, and user-focused** websites.  
-3️⃣ Currently exploring **React.js** to build smart, dynamic UIs.  
-4️⃣ Always curious to learn new tech and improve my skills.  
-5️⃣ My motto — *Code smart, build better, and grow every day!* 🚀  
+I’m **Harish**, a passionate Full Stack Developer under the **AACC 2027 Program**, focused on building **scalable and user-centric applications**.
+
+- Skilled in **Frontend & Backend development**, with clean and maintainable code.
+- Experienced with **Python, Java, JavaScript, and React.js**.
+- Currently building **E-School Digital Learning Platforms**.
+- Always learning **modern technologies** and improving development workflows.
+- Motto: *Code smart, build better, grow every day!* 🚀
+
+---
+
+## 📄 Resume Highlights:
+- **Education:** Bachelor’s in Computer Science (or your degree)
+- **Projects:** E-School Platform, React Dynamic Interfaces, DSA Practice Scripts
+- **Skills:** Python, Java, JavaScript, React.js, HTML5, CSS3, C, SQL
+- **Tools:** VS Code, Git, GitHub, Postman
+- **Achievements:** Contributed to multiple personal and academic projects emphasizing clean architecture and user-focused design
 
 ---
 
@@ -19,6 +31,9 @@
   </a>
   <a href="mailto:kit27.csbs20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/HARISH112006" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -37,10 +52,11 @@
 
 ---
 
-## 🧰 Tools I Use:
+## 🧰 Tools & Platforms:
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -55,9 +71,9 @@
 ---
 
 ## 🧠 Currently Exploring:
-🚀 React.js | 🌐 Modern Web UI | ☁️ Cloud Basics (AWS, VPC)
+React.js | Modern Web UI | Cloud Basics (AWS, VPC)
 
 ---
 
-
 <!-- Created by Harish with ❤️ and curiosity -->
+```
