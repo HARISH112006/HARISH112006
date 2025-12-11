@@ -1,27 +1,27 @@
 # <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Harish" width="250"/>
+  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" alt="Harish" width="300"/>
 </p>
-### Full Stack Developer | React Enthusiast | Web & Software Developer
+### <p align="center">💻 Full Stack Developer | React Enthusiast | Web & Software Developer 🚀</p>
 
 ---
 
 ## 💫 About Me
 I’m **Harish**, a passionate Full Stack Developer under the **AACC 2027 Program**, focused on building **scalable and user-centric applications**.
 
-- Skilled in **Frontend & Backend development**, with clean and maintainable code.
-- Experienced with **Python, Java, JavaScript, and React.js**.
-- Currently building **E-School Digital Learning Platforms**.
-- Always learning **modern technologies** and improving development workflows.
-- Motto: *Code smart, build better, grow every day!* 🚀
+- 🔹 Skilled in **Frontend & Backend development**, with clean and maintainable code.
+- 🔹 Experienced with **Python, Java, JavaScript, and React.js**.
+- 🔹 Currently building **E-School Digital Learning Platforms**.
+- 🔹 Always learning **modern technologies** and improving development workflows.
+- 🔹 Motto: *Code smart, build better, grow every day!* 🌟
 
 ---
 
 ## 📄 Resume Highlights
-- **Education:** Bachelor’s in Computer Science (or your degree)
-- **Projects:** E-School Platform, React Dynamic Interfaces, DSA Practice Scripts
-- **Skills:** Python, Java, JavaScript, React.js, HTML5, CSS3, C, SQL
-- **Tools:** VS Code, Git, GitHub, Postman
-- **Achievements:** Contributed to multiple personal and academic projects emphasizing clean architecture and user-focused design
+- 🎓 **Education:** Bachelor’s in Computer Science
+- 🛠️ **Projects:** E-School Platform, React Dynamic Interfaces, DSA Practice Scripts
+- 💡 **Skills:** Python, Java, JavaScript, React.js, HTML5, CSS3, C, SQL
+- ⚙️ **Tools:** VS Code, Git, GitHub, Postman
+- 🏆 **Achievements:** Contributed to multiple personal and academic projects emphasizing clean architecture and user-focused design
 
 ---
 
@@ -54,9 +54,9 @@ VS Code | Git | GitHub | Postman
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HARISH112006&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HARISH112006&theme=tokyonight&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISH112006&theme=tokyonight&hide_border=false&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=HARISH112006&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HARISH112006&theme=radical&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISH112006&theme=radical&hide_border=false&layout=compact" />
 </p>
 
 ---
@@ -66,4 +66,4 @@ React.js | Modern Web UI | Cloud Basics (AWS, VPC)
 
 ---
 
-<!-- Created by Harish with ❤️ and curiosity -->
+<p align="center">✨ Made with ❤️ and curiosity by Harish ✨</p>
